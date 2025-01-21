@@ -1,58 +1,27 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Deep Learning Model Training for Customer Sentiment Analysis</span>
   <span class="subhead">Setup</span>
 </h1>
 
-## Setup
+## How to submit the lab
 
-tktk The below is a generic starting point for lab setup. You may need to make adjustments to this.
+### Setup
 
-Open your Terminal application and navigate to your <code class="filepath">~/code/ga/labs</code> directory:
+- Step 1. Fork the repository
+- Step 2. Clone your fork
 
+### Submitting work
+
+- Step 1. Create a folder for the specific work
+- Step 2. Push to your fork
+- Step 3. Submit a pull request
+- Step 3.1. Add a title (First name, Last Name) and comment
+
+In the comment section, you must add the following:
 ```bash
-cd ~/code/ga/labs
+* Comfortability [0 to 5]
+* Completeness [0 to 5]
+* What was a win?
+* What was a challenge?
+* Any other comments
 ```
-
-### Fork and clone the starter code
-
-tktk Use the below instructions if students will need starter code from a separate module to complete the lab exercise. If they do not, delete this section and all of its contents.
-
-Fork the [[tktk Headline] Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name-starter-code) repository.
-
-Clone a copy of your remote repo locally by using the `git clone` command:
-
-```bash
-git clone https://git.generalassemb.ly/<your-username>/tktk-module-name-starter-code.git tktk-module-name
-```
-
-Replace `<your-username>` (including the `<` and `>`) with your General Assembly GitHub Enterprise username before you run this command.
-
-### Create and clone a GitHub repo
-
-tktk Use the below instructions if students do not need starter code from a separate module to complete the lab exercise. If they do, delete this section and all of its contents.
-
-Make a new repository on [GitHub](https://github.com/) named `tktk-module-name`.
-
-Clone a copy of your remote repo locally by using the `git clone` command:
-
-```bash
-git clone https://github.com/<your-username>/tktk-module-name.git
-```
-
-Replace `<your-username>` (including the `<` and `>`) with your GitHub username before you run this command.
-
-### Launch in VS Code
-
-Next, `cd` into the cloned directory, <code class="filepath">tktk-module-name</code>:
-
-```bash
-cd tktk-module-name
-```
-
-Open the contents of the directory in VS Code:
-
-```bash
-code .
-```
-
-tktk Are there more lab setup steps? Don't forget to add them here.
