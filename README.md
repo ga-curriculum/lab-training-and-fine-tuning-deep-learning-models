@@ -1,56 +1,43 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Lab: Training/Fine-Tuning deep learning  model</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+### Deep Learning Model Training for Customer Sentiment Analysis
+
+**Lab Objective:**
+Train and fine-tune a deep learning model to analyze customer feedback and provide actionable insights.
+
+**Scenario:**
+"Your retail client needs a sentiment analysis model to categorize customer reviews as positive, neutral, or negative and identify trends to enhance their strategy."
+Students Will:
+- Preprocess a synthetic dataset of customer reviews for model training.
+- Train a sentiment analysis model using an LSTM or fine-tune a pre-trained transformer like BERT.
+- Measure accuracy, F1-score, and confusion matrix; identify areas for improvement.
+- Deliver a brief summary of key trends, model performance, and recommendations (e.g., addressing delivery complaints).
+- Discuss how to explain findings and next steps to a non-technical client.
+
+In this lab you would want to include prompts like: "What are the most actionable insights you could extract from the sentiment analysis? How would you prioritize these for the client?"
 
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
-## Internal
 
 ### Prerequisites
 
-- tktk
+- Fundamental knowledge of Pyhton programming
+- Basic knowledge of Pandas, Numpy and Matplot Libraries
+- Basic understanding of ML and DL
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+Estimated time to complete core lab exercise: **90 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](exercise/SOLUTION_sentiment_analysis_LSTM.ipynb)
 
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-### Course landing pages
-
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
