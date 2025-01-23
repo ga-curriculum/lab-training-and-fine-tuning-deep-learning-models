@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Deep Learning Model Training for Customer Sentiment Analysis</span>
-  <span class="subhead">Exercise</span>
+  <span class="subhead">Day 2:Lab</span>
 </h1>
 
 ## Lab Objective: 
