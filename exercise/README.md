@@ -5,7 +5,8 @@
 
 ## Lab Objective: 
 Train and fine-tune a deep learning model to analyze customer feedback and provide actionable insights.
-Scenario: "Your retail client needs a sentiment analysis model to categorize customer reviews as positive, neutral, or negative and identify trends to enhance their strategy."
+
+**Scenario:** "Your retail client needs a sentiment analysis model to categorize customer reviews as positive, neutral, or negative and identify trends to enhance their strategy."
 
 **Students Will:**
 - Preprocess a synthetic dataset of customer reviews for model training.
