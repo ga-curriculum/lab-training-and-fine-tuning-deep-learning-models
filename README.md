@@ -12,7 +12,8 @@ Train and fine-tune a deep learning model to analyze customer feedback and provi
 
 **Scenario:**
 "Your retail client needs a sentiment analysis model to categorize customer reviews as positive, neutral, or negative and identify trends to enhance their strategy."
-Students Will:
+
+**Students Will:**
 - Preprocess a synthetic dataset of customer reviews for model training.
 - Train a sentiment analysis model using an LSTM or fine-tune a pre-trained transformer like BERT.
 - Measure accuracy, F1-score, and confusion matrix; identify areas for improvement.
