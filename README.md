@@ -8,7 +8,7 @@
 ### Deep Learning Model Training for Customer Sentiment Analysis
 
 **Lab Objective:**
-Train and fine-tune a deep learning model to analyze customer feedback and provide actionable insights.
+In this lab, student will train and fine-tune a deep learning model to analyze customer feedback and provide actionable insights.
 
 **Scenario:**
 "Your retail client needs a sentiment analysis model to categorize customer reviews as positive, neutral, or negative and identify trends to enhance their strategy."
